@@ -66,7 +66,7 @@ This repo doesn’t include proprietary Notion data.
 ---
 
 ## 🧃 Credits
-Built by **Emil** & **[Your Friend’s Name]** (42 Heilbronn) 💚  
+Built by **Emileiniel2013** & **@silndoj** (42 Heilbronn) 💚  
 Powered by:
 - [Flask](https://flask.palletsprojects.com/)
 - [n8n](https://n8n.io)
