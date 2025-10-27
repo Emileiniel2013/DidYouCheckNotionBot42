@@ -48,6 +48,23 @@ The structure of the workflow:
 4. **Slack Reply Node:** Posts the reply in the same thread
 
 ---
+## 🚀 Running the Python Backend
+
+The Flask API that powers the bot is already preconfigured inside the `DYCN_bot` folder.  
+It includes the virtual environment (`.venv`) and the main entry script (`bot.py`).
+
+Here’s how to start it:
+
+```bash
+cd DYCN_bot
+
+# 🧠 Activate the existing virtual environment
+source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
+
+# ⚙️ Run the bot
+python bot.py
+
+---
 
 ## 📸 Example Outputs
 
