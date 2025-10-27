@@ -1,0 +1,70 @@
+[
+  {
+    "topic": "Cafeteria Menu",
+    "summary": "Lists all available meals in the campus cafeteria, including daily specials, vegetarian options, and allergens. Also explains how to recharge your CampusCard balance and get student discounts.",
+    "keywords": [
+      "food",
+      "mensa",
+      "lunch",
+      "campuscard",
+      "discount",
+      "menu"
+    ],
+    "link": "https://example.com/notion/Cafeteria-Menu",
+    "reply": "Hungry again? 🍝 The *Cafeteria Menu* page shows what’s cooking today — yes, even the vegan stuff. Don’t forget to top up your CampusCard before you cry at the counter 👉"
+  },
+  {
+    "topic": "Library Access",
+    "summary": "Explains how students can borrow books and access the online database. Includes info on late fees, opening hours, and how to request new materials.",
+    "keywords": [
+      "library",
+      "books",
+      "database",
+      "borrow",
+      "study",
+      "resources"
+    ],
+    "link": "https://example.com/notion/Library-Access",
+    "reply": "Need a quiet place to cry over C++? 📚 The *Library Access* page has your back — opening hours, online databases, and how to snag that one Python book everyone’s fighting over 👉"
+  },
+  {
+    "topic": "Lost & Found",
+    "summary": "Outlines the process for reporting or retrieving lost items on campus. Includes contact info for reception and how long items are kept before disposal.",
+    "keywords": [
+      "lost items",
+      "found items",
+      "reception",
+      "campus",
+      "support"
+    ],
+    "link": "https://example.com/notion/Lost-And-Found",
+    "reply": "Lost your sanity or your AirPods again? 🎧 The *Lost & Found* page tells you where to check before buying new ones. Spoiler: it’s probably at reception, right next to three other identical pairs 👉"
+  },
+  {
+    "topic": "Campus Events",
+    "summary": "Covers upcoming workshops, hackathons, and social gatherings on campus. Explains how to register, propose new events, and earn participation badges.",
+    "keywords": [
+      "events",
+      "workshops",
+      "hackathons",
+      "social",
+      "community"
+    ],
+    "link": "https://example.com/notion/Campus-Events",
+    "reply": "Wanna socialize without a compiler? 🎉 Check the *Campus Events* page — from hackathons to pizza nights, it’s all there. Sign up, show up, and pretend to be extroverted for a bit 👉"
+  },
+  {
+    "topic": "IT Troubleshooting",
+    "summary": "Provides solutions to the most common tech issues on campus — from Wi-Fi drops to login errors. Includes contact details for IT support and instructions for safe Mac restarts.",
+    "keywords": [
+      "IT",
+      "support",
+      "wifi",
+      "login",
+      "mac",
+      "issues"
+    ],
+    "link": "https://example.com/notion/IT-Troubleshooting",
+    "reply": "Wi-Fi down again? 😩 The *IT Troubleshooting* page has every fix except emotional support. Try the steps before summoning the IT team from their coffee ritual 👉"
+  }
+]
