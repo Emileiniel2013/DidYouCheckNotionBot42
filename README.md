@@ -16,8 +16,6 @@ It reads messages from your Slack channels and replies with snarky comments + No
 
 ## 🧠 How It Works
 
-The logic is simple, but spicy:
-
 1. A user posts a message in a Slack channel.  
 2. **n8n** triggers the workflow and sends the message + user info to the Flask API (`/respond` endpoint).  
 3. The **Flask backend**:
