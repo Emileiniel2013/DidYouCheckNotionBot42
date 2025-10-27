@@ -45,9 +45,9 @@ Here’s the structure you should replicate:
 ---
 
 # Example outputs
-![Bot Screenshot1](https://i.imgur.com/abc123.png](https://i.imgur.com/9l483Vp.png)
-![Bot Screenshot2](https://i.imgur.com/abc123.png](https://i.imgur.com/MTmAbyh.png)
-![Bot Screenshot3](https://i.imgur.com/abc123.png](https://i.imgur.com/aklBPFV.png)
+![Bot Screenshot1](https://i.imgur.com/9l483Vp.png)
+![Bot Screenshot2](https://i.imgur.com/MTmAbyh.png)
+![Bot Screenshot3](https://i.imgur.com/aklBPFV.png)
 
 ---
 ## Data & Privacy
