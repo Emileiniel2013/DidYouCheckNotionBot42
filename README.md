@@ -63,7 +63,7 @@ source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
 
 # ⚙️ Run the bot
 python bot.py
-
+```
 ---
 
 ## 📸 Example Outputs
