@@ -75,7 +75,7 @@ python bot.py
 
 ## 🔐 Data & Privacy
 This repo doesn’t include proprietary Notion data.  
-- To run with your own workspace, add `NOTION_TOKEN` + `JSON_PATH` to the `.env` file  
+- To run with your own workspace, add `OPENROUTER_API_KEY` + `JSON_PATH` to the `.env` file  
 - For a quick demo, the app works with `DYCN_bot/notion_entries_sample.json` (synthetic)
 
 ---
